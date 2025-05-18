@@ -1,0 +1,278 @@
+{
+    "1": [
+        {
+            "pergunta": "O que conduz eletricidade?",
+            "opcoes": [
+                "A) Plástico",
+                "B) Madeira",
+                "C) Cobre"
+            ],
+            "resposta": "C"
+        },
+        {
+            "pergunta": "Qual desses é perigoso sem supervisão?",
+            "opcoes": [
+                "A) Tomada",
+                "B) Livro",
+                "C) Bola"
+            ],
+            "resposta": "A"
+        },
+        {
+            "pergunta": "Qual parte do corpo usa eletricidade para funcionar?",
+            "opcoes": [
+                "A) Unha",
+                "B) Coração",
+                "C) Cabelo"
+            ],
+            "resposta": "B"
+        },
+        {
+            "pergunta": "Qual desses é um exemplo de fonte de energia?",
+            "opcoes": [
+                "A) Pilha",
+                "B) Parafuso",
+                "C) Papel"
+            ],
+            "resposta": "A"
+        },
+        {
+            "pergunta": "O que é perigoso colocar na tomada?",
+            "opcoes": [
+                "A) Chave de fenda",
+                "B) Carregador",
+                "C) Plug de tomada"
+            ],
+            "resposta": "A"
+        },
+        {
+            "pergunta": "Qual desses é um material isolante?",
+            "opcoes": [
+                "A) Borracha",
+                "B) Alumínio",
+                "C) Cobre"
+            ],
+            "resposta": "A"
+        },
+        {
+            "pergunta": "O que a lâmpada precisa para acender?",
+            "opcoes": [
+                "A) Água",
+                "B) Eletricidade",
+                "C) Ar"
+            ],
+            "resposta": "B"
+        },
+        {
+            "pergunta": "Qual símbolo representa perigo elétrico?",
+            "opcoes": [
+                "A) ☠️",
+                "B) ⚡",
+                "C) 🔥"
+            ],
+            "resposta": "B"
+        },
+        {
+            "pergunta": "Qual componente limita a corrente elétrica?",
+            "opcoes": [
+                "A) Capacitor",
+                "B) Fio",
+                "C) Resistor"
+            ],
+            "resposta": "C"
+        },
+        {
+            "pergunta": "O que acontece quando ligamos uma chave elétrica?",
+            "opcoes": [
+                "A) Fecha o circuito",
+                "B) Abre o ventilador",
+                "C) Liga o alarme"
+            ],
+            "resposta": "A"
+        }
+    ],
+    "2": [
+        {
+            "pergunta": "Ohm é unidade de:",
+            "opcoes": [
+                "A) Tensão",
+                "B) Corrente",
+                "C) Resistência"
+            ],
+            "resposta": "C"
+        },
+        {
+            "pergunta": "Volt mede:",
+            "opcoes": [
+                "A) Resistência",
+                "B) Potência",
+                "C) Tensão"
+            ],
+            "resposta": "C"
+        },
+        {
+            "pergunta": "Qual componente armazena energia por pouco tempo?",
+            "opcoes": [
+                "A) Transistor",
+                "B) Capacitor",
+                "C) Resistor"
+            ],
+            "resposta": "B"
+        },
+        {
+            "pergunta": "Quantos terminais tem um transistor NPN?",
+            "opcoes": [
+                "A) 2",
+                "B) 3",
+                "C) 4"
+            ],
+            "resposta": "B"
+        },
+        {
+            "pergunta": "A corrente é medida em:",
+            "opcoes": [
+                "A) Watts",
+                "B) Volts",
+                "C) Amperes"
+            ],
+            "resposta": "C"
+        },
+        {
+            "pergunta": "Qual desses é um componente ativo?",
+            "opcoes": [
+                "A) Resistor",
+                "B) Capacitor",
+                "C) Transistor"
+            ],
+            "resposta": "C"
+        },
+        {
+            "pergunta": "Hz é a unidade de:",
+            "opcoes": [
+                "A) Frequência",
+                "B) Potência",
+                "C) Resistência"
+            ],
+            "resposta": "A"
+        },
+        {
+            "pergunta": "Qual desses converte corrente alternada em contínua?",
+            "opcoes": [
+                "A) Transformador",
+                "B) Diodo",
+                "C) Bobina"
+            ],
+            "resposta": "B"
+        },
+        {
+            "pergunta": "Potência elétrica é igual a:",
+            "opcoes": [
+                "A) V + A",
+                "B) V x A",
+                "C) V / A"
+            ],
+            "resposta": "B"
+        },
+        {
+            "pergunta": "Qual desses armazena carga elétrica?",
+            "opcoes": [
+                "A) Fio",
+                "B) Capacitor",
+                "C) Fusível"
+            ],
+            "resposta": "B"
+        }
+    ],
+    "3": [
+        {
+            "pergunta": "Qual barramento é mais usado para sensores com 2 fios?",
+            "opcoes": [
+                "A) SPI",
+                "B) I2C",
+                "C) UART"
+            ],
+            "resposta": "B"
+        },
+        {
+            "pergunta": "O que é PWM?",
+            "opcoes": [
+                "A) Modulação de Largura de Pulso",
+                "B) Tensão contínua",
+                "C) Unidade de Potência"
+            ],
+            "resposta": "A"
+        },
+        {
+            "pergunta": "Qual desses é um microcontrolador?",
+            "opcoes": [
+                "A) ESP32",
+                "B) Capacitor",
+                "C) LDR"
+            ],
+            "resposta": "A"
+        },
+        {
+            "pergunta": "Qual biblioteca do Arduino é usada com servo motor?",
+            "opcoes": [
+                "A) Wire",
+                "B) Servo",
+                "C) SPI"
+            ],
+            "resposta": "B"
+        },
+        {
+            "pergunta": "Qual unidade mede a capacidade de armazenamento de energia?",
+            "opcoes": [
+                "A) Ohm",
+                "B) Farad",
+                "C) Henry"
+            ],
+            "resposta": "B"
+        },
+        {
+            "pergunta": "A função `analogRead()` no Arduino serve para:",
+            "opcoes": [
+                "A) Ler valores digitais",
+                "B) Escrever pinos",
+                "C) Ler valores analógicos"
+            ],
+            "resposta": "C"
+        },
+        {
+            "pergunta": "Como funciona um sensor ultrassônico?",
+            "opcoes": [
+                "A) Pressão",
+                "B) Luz",
+                "C) Eco de som"
+            ],
+            "resposta": "C"
+        },
+        {
+            "pergunta": "Qual unidade mede indutância?",
+            "opcoes": [
+                "A) Tesla",
+                "B) Farad",
+                "C) Henry"
+            ],
+            "resposta": "C"
+        },
+        {
+            "pergunta": "Qual desses é um protocolo serial assíncrono?",
+            "opcoes": [
+                "A) UART",
+                "B) I2C",
+                "C) PWM"
+            ],
+            "resposta": "A"
+        },
+        {
+            "pergunta": "A sigla IDE no Arduino significa:",
+            "opcoes": [
+                "A) Interface Digital Elétrica",
+                "B) Ambiente de Desenvolvimento Integrado",
+                "C) Entrada Digital Elétrica"
+            ],
+            "resposta": "B"
+        }
+    ]
+}
